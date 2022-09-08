@@ -4,7 +4,7 @@ List required package:
 1. pandas
 2. openpyxl
 3. PysimpleGUI
-4. 
+4. numpy
 
 
 Screenshot Platform Entry Data Individu
